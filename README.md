@@ -1,2 +1,6 @@
-# onlineExamPortal
-A php based online examination portal. Admin panel as well as student panel. Multiple choice question,descriptive question and short question features are being added with basic UI. The DB used is mysql
+# online-exam-portal
+Online Exam Portal Using PHP, MYSQL, JQUERY, BOOTSTRAP
+
+To run the project edit the database.php file according to your database settings and import the online_examv4.sql into you phpmyadmin. <br>
+Administrator Username: admin <br>
+Administrator Password: admin
